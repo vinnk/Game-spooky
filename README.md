@@ -1,2 +1,2 @@
-# Game-Flappy-Bird
+# Game-Flappy Bird
 arcade game (controlled with joystick)
